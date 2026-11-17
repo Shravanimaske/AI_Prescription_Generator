@@ -1,4 +1,3 @@
-# Poster_Genration_System
 
 # 🩺 AI Prescription Generator
 
